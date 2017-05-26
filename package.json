@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Simple Package.js demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Panupong Chamsomboon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
